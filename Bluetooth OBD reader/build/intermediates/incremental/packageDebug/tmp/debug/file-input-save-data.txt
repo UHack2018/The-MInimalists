@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Jul 27 17:16:58 IST 2018
+0.baseType=DIRECTORY
+0.base=/Users/shahil/Documents/Andriod Projects/obd/android-obd-reader-copy/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
